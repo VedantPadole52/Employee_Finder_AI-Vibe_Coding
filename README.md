@@ -2,7 +2,7 @@
 [![Built with Lovable](https://img.shields.io/badge/Built%20with-Lovable-blueviolet)](https://www.lovable.so/)
 
 #(ToolAssisted)   #(LearningProject.)
-# Welcome Lovable project
+# Welcome Lovable AI project
 >  This project was generated using [Lovable](https://www.lovable.so/). I did not write the core code, but I deployed and branded it to explore ethical AI-assisted workflows. All authorship is transparently credited.
 
 
@@ -16,7 +16,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/4bca529b-1bb4-45dc-acb7-47fc00e1572a) and start prompting.
+Simply visit the [Lovable AI Project](https://lovable.dev/projects/4bca529b-1bb4-45dc-acb7-47fc00e1572a) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
