@@ -2,7 +2,7 @@
 [![Built with Lovable](https://img.shields.io/badge/Built%20with-Lovable-blueviolet)](https://www.lovable.so/)
 
 #(ToolAssisted)   #(LearningProject.)
-# Welcome Lovable AI project (Vive Coding)
+# Welcome Lovable AI project (Vibe Coding)
 >  This project was generated using [Lovable](https://www.lovable.so/). I did not write the core code, but I deployed and branded it to explore ethical AI-assisted workflows. All authorship is transparently credited.
 
 
