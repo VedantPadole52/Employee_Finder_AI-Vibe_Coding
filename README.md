@@ -1,7 +1,7 @@
   
 [![Built with Lovable](https://img.shields.io/badge/Built%20with-Lovable-blueviolet)](https://www.lovable.so/)
 
-# Employee Finder -A Vibe Coding Experince Powered by Lovable AI (Vibe Coding).
+# Employee Finder -A Vibe Coding Experince Powered by Lovable AI (Vibe Coding)
 # My Vibe Coding Experience: Creating Employee Finder AI with Lovable AI’s Help.Learning through Vibe Coding : Finder Project Built With Lovable AI Assistance.
 >  This project was generated using [Lovable](https://www.lovable.so/). I did not write the core code, but I deployed and branded it to explore ethical AI-assisted workflows. All authorship is transparently credited.
 
